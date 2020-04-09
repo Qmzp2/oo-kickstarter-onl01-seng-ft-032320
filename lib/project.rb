@@ -13,8 +13,6 @@ class Project
     backer.back_project(self)
   end
   
-  def self.backers
-    @backers
-  end
+
   
 end
