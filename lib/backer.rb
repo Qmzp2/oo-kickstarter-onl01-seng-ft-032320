@@ -17,5 +17,9 @@ class Backer
       @backed_projects
     end
     
+    def <<
+      <<
+    end
+    
     
 end
