@@ -13,6 +13,7 @@ class Backer
     if !(project.add_backer.include?(self))
     project.add_backer(self)
   end
+  end
     
 
 end
