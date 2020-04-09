@@ -13,6 +13,7 @@ class Project
     if !(backer.back_project.include?(self))
     backer.back_project(self)
   end
+  end
   
 
   
